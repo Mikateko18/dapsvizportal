@@ -1,0 +1,31 @@
+body{
+  background-color: #012c50;
+}
+.Img-News-Help{
+  vertical-align: middle;
+  width: 100%;
+  border: 0;
+  height: 200px;
+}
+.form-help {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  margin-top: 20px;
+}
+.top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.middle{
+  border-radius: 0;
+  margin-bottom: -1px;
+}
+.bottom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+
+}

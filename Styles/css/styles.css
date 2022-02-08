@@ -1,0 +1,45 @@
+body{
+  background-color: #012c50;
+}
+h1{
+  color: white;
+  font-size: 20px;
+  margin-left: 20px;
+
+}
+.container-fluid{
+padding-top: 10%;
+padding-left: 10%;
+  color: #fff;
+
+}
+.container-fluid-1{
+  padding-top: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+    color: #fff;
+
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+    margin: auto;
+    margin-top: 80px;
+}
+
+.nav-item{
+  font-weight: bold;
+}
+.top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.bottom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
